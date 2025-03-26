@@ -74,7 +74,8 @@
             "phpstan/extension-installer": false,
             "symfony/thanks": false,
             "symfony/runtime": true
-        }
+        },
+        "bump-after-update": true
     },
     "extra": {
         "branch-alias": {
